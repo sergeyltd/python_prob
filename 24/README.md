@@ -1,1 +1,1 @@
-This program allow to calculate how many approches to reach 24 from 4number of licese plate.
+This program allow to calculate how many approaches to reach 24 from 4number of license plate.
